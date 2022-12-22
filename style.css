@@ -1,0 +1,22 @@
+.color_button_radio {
+    visibility: hidden;
+    display: none;
+}
+.color_button_elem {
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    border: 5px solid rgb(247, 133, 2);
+    padding: 20px;
+    background-color: rgb(76, 125, 199);
+    margin-left: 10px;
+    font-size: 15px;
+    align-items: center;
+    color: rgb(85, 247, 5);
+}
+.container {
+    justify-content: center;
+    color: rgb(37, 37, 37);
+    font-size: 40px;
+    margin-left: 760px;
+}
